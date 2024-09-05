@@ -1,4 +1,4 @@
-Clone git repository
-Go to folder XogeneTest
-Open terminal and run 'npm i'
-Run 'npm start'
+1. Clone git repository
+2. Go to folder XogeneTest
+3. Open terminal and run 'npm i'
+4. Run 'npm start'
